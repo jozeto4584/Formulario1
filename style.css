@@ -1,0 +1,52 @@
+.formulario-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+    border-radius: 3px solid black;
+    padding: 8px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+}
+body{
+    background-color: rgb(103, 119, 133);
+  
+    
+}
+.formulario-container{
+    background-color: #6ba9ec;
+}
+
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 90%;
+    padding: 9px;
+    border: 3px solid #180d0d;
+    border-radius: 5px;
+   
+    
+
+}
+
+button {
+    background-color: #0a8b14;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
